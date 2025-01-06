@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 - :e-mail: Ask me about anything : **_[https://www.linkedin.com/in/felix-nahrendorf/](https://www.linkedin.com/in/felix-nahrendorf/)_**
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=hritik5102&show_icons=true&theme=tokyonight" />
 
 ### Languages and Tools :computer:
 
@@ -38,6 +37,4 @@ Here are some ideas to get you started:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code><br/>
 <br/>
