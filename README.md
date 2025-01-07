@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### About me :dart:
 
-- 💻 Computational Engineering: Machine learning | Deep learning | Computer vision | Robotics
+- 💻 Computational Science:  Machine learning | Deep learning | Computer vision | Robotics
 - ⚙️ Mechanical Engineering: MATLAB Simulation | FEA Analysis | Computer Aided Design
 
 ### Current focus
