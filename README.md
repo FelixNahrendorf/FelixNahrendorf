@@ -29,11 +29,9 @@ Here are some ideas to get you started:
 - Implementing end-to-end Deep Learning Pipelines
 - Automating process monitoring and control of a mechanical apparatus that aims to perform a complex chemical process with Arduino and RaspberryPi
 
-- 📫 Connect: **_[https://www.linkedin.com/in/felix-nahrendorf/](https://www.linkedin.com/in/felix-nahrendorf/)_**
-
-
 ### Languages and Tools :computer:
 
 - 💻 Python | C++ | R | SQL
 - ⚙️ MATLAB | Simulink | COMSOL | PTC Creo | Solidworks | Autodesk Inventor
 
+- 📫 Connect: **_[https://www.linkedin.com/in/felix-nahrendorf/](https://www.linkedin.com/in/felix-nahrendorf/)_**
