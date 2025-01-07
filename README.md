@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -21,10 +21,15 @@ Here are some ideas to get you started:
 
 ### About me :dart:
 
-- 💻: Computational Engineering: Machine learning | Deep learning | Computer vision | Robotics
-- ⚙️: Mechanical Engineering: MATLAB Simulation | FEA Analysis | Computer Aided Design
+- 💻 Computational Engineering: Machine learning | Deep learning | Computer vision | Robotics
+- ⚙️ Mechanical Engineering: MATLAB Simulation | FEA Analysis | Computer Aided Design
 
-- :e-mail: Ask me about anything : **_[https://www.linkedin.com/in/felix-nahrendorf/](https://www.linkedin.com/in/felix-nahrendorf/)_**
+### Current focus
+
+- Implementing end-to-end Deep Learning Pipelines
+- Automating process monitoring and control of a real world mechanical protoype with Arduino and RaspberryPi
+
+- 📫 Connect: **_[https://www.linkedin.com/in/felix-nahrendorf/](https://www.linkedin.com/in/felix-nahrendorf/)_**
 
 
 ### Languages and Tools :computer:
