@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 ### Languages and Tools :computer:
 
 - 💻 Python | C++ | R | SQL
-- ⚙️ MATLAB | COMSOL | PTC Creo | Solidworks | Autodesk Inventor
+- ⚙️ MATLAB | Simulink | COMSOL | PTC Creo | Solidworks | Autodesk Inventor
 
