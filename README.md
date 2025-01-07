@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Current focus
 
 - Implementing end-to-end Deep Learning Pipelines
-- Automating process monitoring and control of a real world mechanical protoype with Arduino and RaspberryPi
+- Automating process monitoring and control of a mechanical apparatus that aims to perform a complex chemical process with Arduino and RaspberryPi
 
 - 📫 Connect: **_[https://www.linkedin.com/in/felix-nahrendorf/](https://www.linkedin.com/in/felix-nahrendorf/)_**
 
