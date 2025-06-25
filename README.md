@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 ### About me :dart:
-
+Mechanic - Engineer - Programmer
 - 💻 Computational Science:  Machine learning | Deep learning | Computer vision | Robotics
-- ⚙️ Mechanical Engineering: MATLAB Simulation | FEA Analysis | Computer Aided Design
+- ⚙️ Mechanical Engineering: MATLAB Simulation | COMSOL Multiphysics Analysis | Computer Aided Design
 
 ### Current focus
 
