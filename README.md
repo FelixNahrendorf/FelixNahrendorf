@@ -27,7 +27,7 @@ Mechanic - Engineer - Programmer
 ### Current focus
 
 - Implementing, Benchmarking of Generative 3D Novel View Synthesis for Autonomous Driving Application
-- Hardware Development and Maintenance of Open Source 3-Axis CNC Milling Machine
+- Consulting: Hardware Development and Mechanical Prototyping
 - Automating process monitoring and control of a mechanical apparatus that aims to perform a complex chemical process with Arduino and RaspberryPi
 
 ### Languages and Tools :computer:
