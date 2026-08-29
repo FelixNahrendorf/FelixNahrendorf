@@ -16,23 +16,28 @@ Here are some ideas to get you started:
 -->
 
 
-### About me 
+## Hey, I am Felix!
 
-Engineer spanning mechanical hardware to machine learning. I'm drawn to problems where machines have to sense, understand, and act intelligently in the physical world.
+### About me
 
-- 💻 **Computational engineering** — machine learning, deep learning, computer vision, robotics
-- ⚙️ **Mechanical engineering** — simulation (MATLAB/Simulink, COMSOL Multiphysics), CAD, prototyping
+Robotics & computer-vision software engineer. I build the perception and 3D computer-vision software that lets machines sense, understand, and act in the physical world — backed by a hardware background spanning mechanics to mechanical engineering.
 
-### Current focus 
+- 💻 **Perception & ML** — computer vision, deep learning, 3D reconstruction / novel-view synthesis, robotics
+- ⚙️ **Hardware & simulation** — mechanical engineering, simulation, prototyping
 
-- 🚗 Implementing and benchmarking generative 3D novel-view synthesis for autonomous-driving applications
-- 🛠️ Freelance hardware development and mechanical prototyping
+### Current focus
 
-### Featured work 
+- 🚗 Implementing and benchmarking generative 3D novel-view synthesis for autonomous-driving perception
+
+### Featured work
 
 - **[pixelSplat_Sim2Real](https://github.com/FelixNahrendorf/pixelsplat_Sim2Real)** — extends pixelSplat to generate real-world birds-eye views from six vehicle cameras, trained on synthetic data only and tested zero-shot on nuScenes. My Master's thesis (grade 1.3, TU Berlin).
 - **[Sim2Real](https://github.com/FelixNahrendorf/Sim2Real)** — the tooling behind it: camera-pose processing, dataset preparation, domain-gap analysis (FID/KID/LPIPS/PSNR/SSIM), and result visualization.
 
-### Connect 
+### Languages & tools
+
+Python · C++ · PyTorch · OpenCV · NumPy · MATLAB · COMSOL · CAD
+
+### Connect 📫
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/felix-nahrendorf/)
