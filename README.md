@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Robotics & computer-vision software engineer. I build the perception and 3D computer-vision software that lets machines sense, understand, and act in the physical world — backed by a hardware background spanning mechanics to mechanical engineering.
 
 - 💻 **Perception & ML** — computer vision, deep learning, 3D reconstruction / novel-view synthesis, robotics
-- ⚙️ **Hardware & simulation** — mechanical engineering, simulation, prototyping
+- ⚙️ **Hardware & simulation** — mechanical engineering, prototyping
 
 ### Current focus
 
