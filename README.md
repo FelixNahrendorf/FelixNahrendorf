@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## Hey, I am Felix!
-
 ### About me
 
 Robotics & computer-vision software engineer. I build the perception and 3D computer-vision software that lets machines sense, understand, and act in the physical world — backed by a hardware background spanning mechanics to mechanical engineering.
