@@ -35,6 +35,6 @@ Robotics & computer-vision software engineer. I build the perception and 3D comp
 
 Python · C++ · PyTorch · OpenCV · NumPy · MATLAB · COMSOL · CAD
 
-### Connect 📫
+### Connect 
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/felix-nahrendorf/)
