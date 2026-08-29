@@ -16,23 +16,23 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"><img src="https://www.static.tu.berlin/fileadmin/www/_processed_/8/a/csm_MSc_Computational_Engineering_Science_c5af07f8ff.jpg" alt="CESTUBERLIN" border="0"></p>
+### About me
 
+Engineer working across the full stack of hardware and software — from an industrial mechanic apprenticeship through mechanical engineering to computational and ML engineering. I like problems that don't respect the boundary between the two.
 
-### About me :dart:
-Mechanic - Engineer - Programmer
-- 💻 Computational Science:  Machine learning | Deep learning | Computer vision | Robotics
-- ⚙️ Mechanical Engineering: MATLAB Simulation | COMSOL Multiphysics Analysis | Computer Aided Design
+- **Computational engineering** — machine learning, deep learning, computer vision, robotics
+- **Mechanical engineering** — simulation (MATLAB/Simulink, COMSOL Multiphysics), CAD, prototyping
 
 ### Current focus
 
-- Implementing, Benchmarking of Generative 3D Novel View Synthesis for Autonomous Driving Application
-- Consulting: Hardware Development and Mechanical Prototyping
-- Automating process monitoring and control of a mechanical apparatus that aims to perform a complex chemical process with Arduino and RaspberryPi
+- Implementing and benchmarking generative 3D novel-view synthesis for autonomous-driving applications
+- Freelance hardware development and mechanical prototyping
 
-### Languages and Tools :computer:
+### Featured work
 
-- 💻 Python | C++ | R | SQL
-- ⚙️ MATLAB | Simulink | COMSOL | PTC Creo | Solidworks | Autodesk Inventor
+- **[pixelSplat_Sim2Real](https://github.com/FelixNahrendorf/pixelsplat_Sim2Real)** — extends pixelSplat to generate real-world birds-eye views from six vehicle cameras, trained on synthetic data only and tested zero-shot on nuScenes. My Master's thesis (grade 1.3, TU Berlin).
+- **[Sim2Real](https://github.com/FelixNahrendorf/Sim2Real)** — the tooling behind it: camera-pose processing, dataset preparation, domain-gap analysis (FID/KID/LPIPS/PSNR/SSIM), and result visualization.
 
-- 📫 Connect: **_[https://www.linkedin.com/in/felix-nahrendorf/](https://www.linkedin.com/in/felix-nahrendorf/)_**
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/felix-nahrendorf/)
